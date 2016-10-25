@@ -1,4 +1,3 @@
-
 SELECT *
 FROM scenarioresults WITH (nolock) 
 WHERE  CreatedOn > GETUTCDATE() -
