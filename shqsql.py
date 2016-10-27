@@ -19,7 +19,7 @@ class shqsql:
         if not user: self.user = 'mkleinert'
         else: self.user = user
 
-        if not password: self.password = 'Ma1114tt'
+        if not password: self.password = ''
         else: self.password = password
 
         if not server: self.server = 'S871DBSP01VW'
